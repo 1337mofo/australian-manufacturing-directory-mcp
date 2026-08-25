@@ -3,7 +3,7 @@
   "name": "io.github.1337mofo/australian-manufacturing-directory",
   "title": "Australian Manufacturing Directory",
   "description": "Search 118,000+ Australian manufacturers by category and state, with Business contact access.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://ausmanufacturingdirectory.com/developers#mcp",
   "remotes": [
     {
