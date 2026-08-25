@@ -2,12 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.1337mofo/australian-manufacturing-directory",
   "title": "Australian Manufacturing Directory",
-  "description": "Search 118,000+ Australian manufacturers by category and state, with profiles and contact access.",
+  "description": "Search 118,000+ Australian manufacturers by category and state, with Business contact access.",
   "version": "1.0.0",
+  "websiteUrl": "https://ausmanufacturingdirectory.com/developers#mcp",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://ausmanufacturingdirectory.com/mcp"
+      "url": "https://mcp.ausmanufacturingdirectory.com/mcp"
     }
   ]
 }
